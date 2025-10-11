@@ -72,8 +72,11 @@ pip install -r requirements.txt
 
 You can download the **training and testing datasets** from Baidu Drive:
 
+
 📁 **Dataset**
- 🔗 https://pan.baidu.com/s/1lQRFUrkaUH7uEDB6iyKq0Q?pwd=2025
+
+ 🔗 [https://pan.baidu.com/s/1lQRFUrkaUH7uEDB6iyKq0Q?pwd=2025](https://pan.baidu.com/s/16bQk82x7qzOfViV71hNS9A?pwd=2025)
+ 
  🔑 **Password:** `2025`
 
 After downloading, place the data under:
@@ -104,8 +107,13 @@ python main.py --phase tr
 
 Download pretrained models from:
 
+
+
+
 📁 **Pretrained Checkpoints**
- 🔗 https://pan.baidu.com/s/1xbyzy7vOlVyc-vQjKDqcBA?pwd=2025
+
+ 🔗 [https://pan.baidu.com/s/1xbyzy7vOlVyc-vQjKDqcBA?pwd=2025](https://pan.baidu.com/s/1tSWmJAVUyVCjMlBUUtY7Zg?pwd=2025)
+ 
  🔑 **Password:** `2025`
 
 Place them under:
