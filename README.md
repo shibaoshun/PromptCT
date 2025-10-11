@@ -25,11 +25,12 @@
 
 ---
 **Network Architecture:**  
-![Network Architecture](https://github.com/shibaoshun/PromptCT/tree/main/fig/fig1.jpg)
+![Network Architecture](https://github.com/shibaoshun/PromptCT/blob/main/fig/fig1.jpg?raw=true)
 
 **Reconstruction Results:**  
-Representative reconstruction results are shown below for sparse-view CT images.  
-![Reconstruction Results](https://github.com/shibaoshun/PromptCT/tree/main/fig/fig2.pdf)
+[Click to view reconstruction results (PDF)](https://github.com/shibaoshun/PromptCT/blob/main/fig/fig2.pdf)
+
+
 
 
 ## 📚 Table of Contents
