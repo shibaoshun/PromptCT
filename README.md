@@ -28,7 +28,8 @@
 ![Network Architecture](https://github.com/shibaoshun/PromptCT/blob/main/fig/fig1.jpg?raw=true)
 
 **Reconstruction Results:**  
-[Click to view reconstruction results (PDF)](https://github.com/shibaoshun/PromptCT/blob/main/fig/fig2.pdf)
+![Reconstruction Results](https://github.com/shibaoshun/PromptCT/blob/main/fig/fig2.pdf?raw=true)
+
 
 
 
