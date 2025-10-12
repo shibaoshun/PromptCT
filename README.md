@@ -145,7 +145,7 @@ PromptCT achieves **superior reconstruction quality** with significantly **lower
 | FBP          | 16.17       | 0.5719 | -         |
 | LipCT        | 39.37       | 0.9406 | 37.9      |
 | MLipCT       | 38.62       | 0.9351 | 9.5       |
-| **PromptCT** | 39.49       | 0.9411 | 12.5      |
+| **PromptCT** | 39.49       | 0.9410 | 12.5      |
 
 ------
 
