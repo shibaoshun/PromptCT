@@ -154,12 +154,17 @@ PromptCT achieves **superior reconstruction quality** with significantly **lower
 If you find this work useful, please cite:
 
 ```
-@article{PromptCT2025,
-  title   = {Prompting Lipschitz-constrained network for multiple-in-one sparse-view CT reconstruction},
-  author  = {Baoshun Shi and Ke Jiang and Qiusheng Lian and Xinran Yu and Huazhu Fu},
-  journal = {IEEE Transactions on Medical Imaging},
-  year    = {2025}
-}
+@ARTICLE{11222836,
+  author={Shi, Baoshun and Jiang, Ke and Lian, Qiusheng and Yu, Xinran and Fu, Huazhu},
+  journal={IEEE Transactions on Medical Imaging}, 
+  title={Prompting Lipschitz-constrained network for multiple-in-one sparse-view CT reconstruction}, 
+  year={2025},
+  volume={},
+  number={},
+  pages={1-1},
+  keywords={Image reconstruction;Convergence;Iterative methods;Computed tomography;Reconstruction algorithms;Costs;X-ray imaging;Training;Optimization;Image restoration;Sparse-view computed tomography;deep unfolding network;convergence analysis;prompt learning},
+  doi={10.1109/TMI.2025.3627305}}
+
 ```
 
 ------
